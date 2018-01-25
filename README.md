@@ -2,14 +2,14 @@
 
 ## About Opacity:
 Ever wondered how busy a certain place is? Ever drove 20 minutes to a restaurant only to find out it was extremely full? Well, no more! Welcome to Opacity. The app that will solve this overlooked problem for everyone. Opacity is a service where users update how busy the place they are currently at is. Other users can see when places have last been updated as well as what the last update status was. And it's all user and community based! When users update the capacity of a business, users will receive points. These points can be used to enter in various prize draws on the opacityapp website, if a certain point threshold is reached. More exciting features with the points to follow in the Phase 2 rollout. More information on the point system can be seen on the opacityapp.com website. Opacity aims to bring people together. It aims to create a community of users where everyone helps one another by constantly providing the capacity of the place people are currently at, in order to help other users make smart decisions on where to go.
+
 ![newyork](https://user-images.githubusercontent.com/19450714/35369532-4bf18100-0156-11e8-811f-997b064f200b.png)
-
-
 
 ## Getting Started:
 
 #### Home Screen:
 Opacity's first tab, the popular tab, is the first thing users will see when they open the app. Choose from 9 preset popular categories and find businesses around you. These categories include Restaurants, Bars and Pubs, Desserts, Cinemas, Lounges and many more! Clicking on any category will find all the businesses around you and their associated current capacities! Be informed with your choice. Choose a place that fits your mood whether that be a local coffee shop that is empty or a bar full of people on a Friday night. Opacity has you covered.
+
 ![main-vertical](https://user-images.githubusercontent.com/19450714/35369531-4be14e98-0156-11e8-951a-630286584186.png)
 
 
