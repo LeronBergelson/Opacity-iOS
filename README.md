@@ -19,17 +19,20 @@ Searching for any business is easy. Simply type what you would like to search in
 
 ## Filters:
 Set various filters in Settings to make your searches more efficient! Select whether you would like Opacity to only display businesses with a certain capacity level such as Low, Medium or High. Or if you would like to see all businesses regardless of which of the 3 capacities they have select the N/A filter. By default, the N/A filter is used so that users can see all businesses in their searches. In addition, be sure to specify the radius of your search to get the best results! Search radius goes from 1 to 20 km! Oh and those cool points - read on below to see how to collect them and what you can do with them! 
+
 ![newyork2](https://user-images.githubusercontent.com/19450714/35369533-4c173dfa-0156-11e8-874e-44a399123faa.png)
 
 
 ## Place Recognition:
 
 At Opacity its all about brining people together. Users update their current location at any business to help others know current capacity. When clicking on the Opacity tab you will be directed to a map that will automaticly find your current location. Opacity will also recognize if you are at a specific business and ask you to update its capacity. Users can also manually update their current location by holding down on any selected business if the user is found to be within 100m from the business. Updating any business would result in a gain of user points. 
+
 ![iphone-7-plus-silver-vertical](https://user-images.githubusercontent.com/19450714/35369529-4bc2bed8-0156-11e8-8237-cd2e86ae5326.png)
 
 ## Recently Searched:
 
 Opacity also keeps track off your last 10 searches so you can always find that place you were looking for earlier!
+
 ![recent](https://user-images.githubusercontent.com/19450714/35369535-4c2f8752-0156-11e8-926b-ce59b489531c.png)
 
 
