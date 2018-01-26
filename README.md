@@ -40,6 +40,10 @@ Opacity also keeps track off your last 10 searches so you can always find that p
 
 Opacity was created by Rony Besprozvanny a Queen's University Computer Engineering student and Leron Bergelson a Game Programming student at George Brown College.
 
+
+## Opacity's Official Commercial:
+https://www.youtube.com/watch?v=7gUsQvkKauw&t=45s
+
 ## Set-Up:
 
 1. Clone the Opacity Local Server from the following [Github Page](https://github.com/ronyBesp/opacity-local-server/)
