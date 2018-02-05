@@ -85,7 +85,7 @@ Once you have completed the pre-requisite steps described above you can now run 
 You will not be able to run the app on your phone currently as you are using a local server so unless you proxy your phone to your computer your phone won't know
 about the server. If you place the local server on a active web server then you will be able to run the app from any phone and connect to the server.
 
-Ensure that the local server is up and running (instructions found on the [Opacity Server page](https://github.com/ronyBesp/opacity-local-server)) and you should be able to run Opacity on the iOS Simulator without a hitch :)
+Ensure that the local server is up and running (instructions found on the [Opacity Server page](https://github.com/ronyBesp/opacity-local-server)) and you should be able to run Opacity on the iOS Simulator without a hitch 
 
 
 
