@@ -38,7 +38,7 @@ Opacity also keeps track off your last 10 searches so you can always find that p
 
 ## Meet the team:
 
-Opacity was created by Rony Besprozvanny a Queen's University Computer Engineering student and Leron Bergelson a Game Programming student at George Brown College.
+Opacity was created by Leron Bergelson a Game Programming student at George Brown College and Rony Besprozvanny a Queen's University Computer Engineering student.
 
 
 ## Opacity's Official Commercial:
